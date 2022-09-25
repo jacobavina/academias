@@ -4,8 +4,8 @@ username:
 account: rpubs
 server: rpubs.com
 hostUrl: rpubs.com
-appId: https://api.rpubs.com/api/v1/document/940336/3eab14d7760d4d7c95fe6a84e49d5ef5
-bundleId: https://api.rpubs.com/api/v1/document/940336/3eab14d7760d4d7c95fe6a84e49d5ef5
-url: http://rpubs.com/jacobavina/940336
-when: 1663201251.58966
-lastSyncTime: 1663201251.58967
+appId: https://api.rpubs.com/api/v1/document/947048/63ef49e30d9e4e6a9587035932c3e715
+bundleId: https://api.rpubs.com/api/v1/document/947048/63ef49e30d9e4e6a9587035932c3e715
+url: http://rpubs.com/publish/claim/947048/0fb55f7e600949b8aaecf92626e9cf8b
+when: 1664065024.4569
+lastSyncTime: 1664065024.45692
